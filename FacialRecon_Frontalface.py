@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun  4 10:32:32 2018
+Created July 2018
 # Face Recognition
 @author: hvyd
 """
